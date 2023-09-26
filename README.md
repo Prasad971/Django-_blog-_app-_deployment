@@ -1,1 +1,1 @@
-# Django-_blog-_app-_deployment
+# Django-blog-app-deployment
