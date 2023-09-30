@@ -43,3 +43,12 @@ The server is hosted, head over to (http://18.233.169.61:8000/?page=2) for the b
 
 
 ![Screenshot 2023-09-30 204137](https://github.com/Prasad971/Django-blog-app-deployment/assets/116083780/3774d19c-bf32-4c46-9800-e0eb417fa729)
+
+Final output
+
+
+![Screenshot 2023-09-30 203649](https://github.com/Prasad971/Django-blog-app-deployment/assets/116083780/cff6a3e5-6be0-41c4-bbe1-01a6dc1a5d1f)
+
+
+
+
